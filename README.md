@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sithum sandeepa</h1>
+<h1 align="center">Hi , I'm sithum sandeepa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  
 <h3 align="center">IT Networking & Cybersecurity Enthusiast | HNDIT Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhmsssm&label=Profile%20views&color=0e75b6&style=flat" alt="dhmsssm" /> </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhmsssm&label=Profile%20views&color=0e75b6&style=flat" alt="dhmsssm" /> </p>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 - 🔭 I’m currently working on **Smart Bus Management System**
 
