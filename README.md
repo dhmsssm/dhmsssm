@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm sithum sandeepa<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   
-<h3 align="center">IT Networking & Cybersecurity Enthusiast | HNDIT Student</h3>
+<h3 align="center">Software Development | Cybersecurity & Networking Enthusiast | HNDIT Student</h3>
 
 
 
