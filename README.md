@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **IT and Software Development Projects**
 
-- 🤝 I’m looking for help with **Networking and Cybersecurity**
+- 🤝 I’m looking for help with **Software Development,Networking and Cybersecurity**
 
 - 💬 Ask me about **PHP, Laravel, MySQL, Web Development and IoT Projects**
 
